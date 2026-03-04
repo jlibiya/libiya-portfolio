@@ -26,11 +26,11 @@ I’m a **Sr DevOps Engineer** with **4+ years of experience** building and oper
 ---
 
 ## Certifications
-- **Google Cloud — Associate Cloud Engineer** (add credential link/ID)
+- **Google Cloud — Associate Cloud Engineer** 
 
 ---
 
 ## Contact
-- Email: libiya.joseph@cloudium.io
+- Email: jlibiya2017@gmail.com
 - GitHub: https://github.com/jlibiya
 - LinkedIn: https://www.linkedin.com/in/libiya-joseph/
