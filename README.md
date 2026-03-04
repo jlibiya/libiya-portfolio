@@ -9,7 +9,7 @@ I’m a **Sr DevOps Engineer** with **4+ years of experience** building and oper
 - **AWS**
 - **Platform Engineering**
 
-🌐 **Portfolio site:** https://libiya.github.io/
+🌐 **Portfolio site:** https://jlibiya.github.io/libiya-portfolio/
 
 ---
 
